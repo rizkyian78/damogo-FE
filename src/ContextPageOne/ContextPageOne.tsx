@@ -124,7 +124,7 @@ function ContextPageOne() {
                     zIndex: 30,
                     alignItems: 'center',
                     marginTop: 5,
-                    marginLeft: -50,
+                    marginLeft: -5,
                   }}
                 />
               </Card>
