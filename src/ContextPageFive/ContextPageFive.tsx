@@ -37,7 +37,7 @@ function ContextPageFive() {
               <Image
                 preview={false}
                 src={Phone1Logo}
-                style={{ marginTop: 30 }}
+                style={{ marginTop: 30, paddingLeft: 50 }}
               />
             </Card>
           </Col>
@@ -179,7 +179,7 @@ function ContextPageFive() {
               <Image
                 preview={false}
                 src={Phone2Logo}
-                style={{ marginTop: 30 }}
+                style={{ marginTop: 30, marginLeft: 35 }}
               />
             </Card>
           </Col>

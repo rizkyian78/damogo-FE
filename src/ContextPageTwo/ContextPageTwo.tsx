@@ -14,11 +14,20 @@ function ContextPageTwo() {
         paddingTop: '7%',
       }}
     >
-      <p style={{ fontWeight: 500, color: '#00A3F4' }}>D A M O G O</p>
+      <p
+        style={{
+          fontWeight: 500,
+          color: '#00A3F4',
+          textAlign: 'center',
+        }}
+      >
+        D A M O G O
+      </p>
       <p
         style={{
           fontWeight: 'bold',
           fontSize: 36,
+          textAlign: 'center',
         }}
       >
         Demo Aplikasi
@@ -66,6 +75,7 @@ function ContextPageTwo() {
                   height={525}
                   style={{
                     marginTop: -120,
+                    marginLeft: 20,
                   }}
                 />
               </Card>

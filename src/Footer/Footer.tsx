@@ -96,6 +96,7 @@ export default function Footer() {
             style={{
               fontWeight: 700,
               fontSize: 18,
+              textAlign: 'center',
             }}
           >
             Download DamoGO App

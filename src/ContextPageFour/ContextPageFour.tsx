@@ -17,11 +17,21 @@ function ContextPageFour() {
         height: 450,
       }}
     >
-      <p style={{ fontWeight: 500, color: '#00A3F4' }}>D A M O G O</p>
+      <p
+        style={{
+          fontWeight: 500,
+          color: '#00A3F4',
+
+          textAlign: 'center',
+        }}
+      >
+        D A M O G O
+      </p>
       <p
         style={{
           fontWeight: 'bold',
           fontSize: 36,
+          textAlign: 'center',
         }}
       >
         Kerjasama
