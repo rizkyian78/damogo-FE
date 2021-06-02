@@ -1,5 +1,3 @@
-import React from 'react'
-import logo from './logo.svg'
 import './App.css'
 import HeaderComponent from './Header/Header'
 import ContextPageOne from './ContextPageOne/ContextPageOne'
