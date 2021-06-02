@@ -1,7 +1,6 @@
-import React from 'react'
 import NameLogo from './Union.svg'
 
-import { Layout, Image, Space, Row, Col, Typography } from 'antd'
+import { Image, Row, Typography } from 'antd'
 
 import 'antd/dist/antd.css'
 
