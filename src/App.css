@@ -20,7 +20,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+
   color: white;
 }
 
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+body {
+  font-family: SF Compact Display;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
 }

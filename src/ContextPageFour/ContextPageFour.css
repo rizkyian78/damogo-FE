@@ -1,0 +1,7 @@
+#imageHover {
+  filter: grayscale(100%);
+}
+
+#imageHover:hover {
+  filter: grayscale(0%);
+}
